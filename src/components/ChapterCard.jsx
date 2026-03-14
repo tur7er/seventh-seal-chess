@@ -146,7 +146,7 @@ export function ChapterCard({ chapter }) {
                 <p style={{ color: 'var(--ink-300)', fontStyle: 'italic', marginBottom: '1rem' }}>
                   This chapter is available with a Seeker subscription.
                 </p>
-                <a href="/memento-mori/pricing" className="btn btn-blood" style={{ textDecoration: 'none' }}>
+                <a href="/seventh-seal-chess/pricing" className="btn btn-blood" style={{ textDecoration: 'none' }}>
                   Upgrade to Seeker
                 </a>
               </div>

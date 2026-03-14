@@ -10,7 +10,7 @@ import { Deploy } from './pages/Deploy'
 
 export default function App() {
   return (
-    <BrowserRouter basename="/memento-mori">
+    <BrowserRouter basename="/seventh-seal-chess">
       <Nav />
       <Routes>
         <Route path="/" element={<Home />} />
